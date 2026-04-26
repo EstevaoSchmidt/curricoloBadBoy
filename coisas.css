@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+}
+.tudo {
+    background-color: green;
+    padding: 200px;
+}
+.informacoes {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border: solid 1px black;
+    align-items: center;
+    border-radius: 20px;
+    padding: 10%;
+}
+
+h1 {
+    color: rgb(187, 187, 24);
+}
+
+h2 {
+    color: rgb(187, 187, 24);
+}
+a {
+    color: rgb(147, 0, 0);
+}
+
+.experienciaDetalhada {
+    margin-bottom: 50px;
+}
+
+hr {
+    width: 100%;
+
+}
+
+.imagem2 {
+    margin-top: 50px;
+}
+
+.fragmento {
+    margin-top: 50px;
+}
